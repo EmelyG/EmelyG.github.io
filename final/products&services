@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Emporium Pies - Products anad Services</title>
+   
+      <link rel="stylesheet" type="text/css" href="styles/arbor.css" />
+   
+     </head>
+   <body>
+      <header>
+        <img src="pieshop.logo.jpg" alt="Emporium Pies" height="100" width="760">
+      </header>
+      <nav>
+        <ul>
+           <li><a href="/arbor/arbor.html">Home</a></li>
+           <li><a href="/arbor/product and services.html">Product and Services</a></li>
+           <li><a href="/arbor/recipe.html">Classic Recipe of the Month</a></li>
+        </ul>
+      </nav>
+      <main>
+         <section>
+            <article class="left">
+               
+               <h2>Favorites</h2>
+
+<table style="width:80%">
+  <tr>
+    <th>All Day, Everyday</th> 
+    <th>Dinner</th>
+  </tr>
+  <tr>
+    <td>Cloud Nine $6.95each slide-$20.00 whole pie<br>
+    A heavenly trifecta of house made with caramel, rich and creamy 
+    butterscotch custard and brown-sugar meringue toasted like a marshmallow</td>
+    <td>Chicken Wrap $7.95<br>
+    grilled chicken &amp; diced<br>
+    veggies in a tortilla wrap</td>
+    <td>Fresh Trout $10.95<br>
+    steamed or fresh veggies</td>
+  </tr>
+  <tr>
+    <td>Fruit Surprise $5.95<br>
+    fresh berries, almonds &amp; melon<br>
+    with a lite glaze</td>
+    <td>Burger Delight $6.95<br>
+    burger with spiced cheese<br>
+    fries</td>
+    <td>Roast Beef $6.95<br>
+    baby carrots &amp; new<br>
+    potatoes</td>
+  </tr>
+ 
+</table>
+               
+               <h2>Dessert Specialties</h2>
+  <dl>
+     <dt>Fruit Pies</dt>
+     <dd>Apple, Plum, Peach, Berries</dd>
+     
+     <dt>Cheesecake</dt>
+     <dd>Spicy, Swirled or Fruit</dd>
+     
+     <dt>Ice Cream Delights</dt>
+     <dd>Shakes, Malts, Freezes</dd>
+   </dl>   
+               
+     <h2>Refreshments</h2>
+<p>Choose from these drinks:</p>
+
+<ul>
+  <li>Tea
+    <ul>
+      <li> Milk (Regular, Strawberry, Chocolate
+      or Coconut)</li>
+      <li>Iced Coffee</li>
+      <li>Fresh Brewed Coffee</li>
+    </ul>
+  </li>
+  <li>French Press Coffee</li>
+  <li>Hot chocolate</li>
+  <ul>
+  <li>Caramel Frappe</li>
+</ul>          
+               
+               
+               
+                   
+            </article>
+         </section>
+         <aside class="right">
+             <img src="arbor.jpg" alt="Arbor Cafe" height="200" width="200">
+         </aside>
+         
+      </main>
+      <footer id="footer">
+         <hr>
+         <p><em>5555 White Rock Lake Drive<br>
+            Dallas TX 75238<br>
+            214 224 4245</em></p>
+         
+         <p><strong>&copy; Emely Guerrero</strong>, -- This is a Website for <em>IMED-1416</em> at <a href="http://www.elcentrocollege.edu">El Centro College</a>.</p>
+         <p>Check out the rest of my <a href="http://EmelyG.github.io">site</a>!</p>
+         
+       
+         
+         <p><a href="#top">Back to the top</a></p>
+         <p>Last updated: Feb. 25, 2019</p>
+         
+      </footer>
+   </body> 
+</html>
