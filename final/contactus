@@ -1,1 +1,63 @@
-
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Emporium Pies - Home</title>
+   
+      <link rel="stylesheet" type="text/css" href="styles/pie.css" />
+   
+     </head>
+   <body>
+      <header>
+        <img src="pieshop.logo.jpg" alt="Emporium Pie" height="100" width="760">
+      </header>
+      
+      <nav>
+        <ul>
+           <li><a href="/final/pie.html">Home</a></li>
+           <li><a href="/final/products&services.html">Products and Services</a></li>
+           <li><a href="/final/contactus.html">Contact Us</a></li>
+        </ul>
+      </nav>
+      <main>
+         <section>
+            <article class="left">
+         
+               <p>Welcome to the home of <strong><em>emporium pie baking!</em></strong></p>
+              <p>We hope you have a great experience in our shop.</p>
+              
+                   <h1>Owner Infromation</h1>
+           
+           <ul>
+             <li>Sandy Harrison</li>
+             <li>She was bored in Spain but raised in Dallas</li>
+             <li>She found out she had a passion for baking pies when she was 13yrs old</li>
+             <li>Personal Phone Number is 972 982 2656</li>
+           </ul>
+            
+            </article>
+         </section>
+         <aside class="right">
+             <img src="pielogo2.jpg" alt="Emporium Pie" height="300" width="300">
+         </aside>
+         
+         <p>We are located on the northwest close to the Deep Ellum, offering a panoramic view of Downtown Dallas.</p> 
+         <p>Call ahead - we welcome reservations!</p>
+         
+      </main>
+      <footer id="footer">
+         <hr>
+         <p><em>2708 Main St #110<br> 
+            Dallas TX 75226<br>
+            972 982 2757</em></p>
+         
+         <p><strong>&copy; Emely Guerrero</strong>, 
+         <p>Check out the rest of my <a href="http://EmelyG.github.io">site</a>!</p>
+         
+       
+         
+         <p><a href="#top">Back to the top</a></p>
+         <p>Last updated: May. 08, 2019</p>
+         
+      </footer>
+   </body>
+</html>
